@@ -14,7 +14,7 @@
 - 👯 I'm looking to collaborate on **Projects**.<br>
 - 💬 Always up for coversations related to **Tech, Music and Movies**.<br>
 - 😄 Pronouns: *he/him*<br>
-- 📫 Reach me: <a href="mailto:npatel1073@gmail.com"> Here's my mail id! </a><br>
+- 📫 Reach me: <a href="mailto:npatel1073@gmail.com"> Here's my mail id! </a> &nbsp; <a href="https://www.linkedin.com/in/neel-patel-014123202/"> Here's my Linkedin Profile! </a> <br>
 <!--⚡ Fun fact: I like writing for personal fun! -->
 <br>
 
