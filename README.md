@@ -9,7 +9,7 @@
  ***A little about ME!*** <br>
  
 - ✨ I'm currently a **Computer Science** student.<br>
-- 🔭 At present, I am exploring **Full Stack Web Development using MERN Stack**.<br>
+- 🔭 At present, I am expert in **Full Stack Web Development using MERN Stack**.<br>
 - 🌱 I'm interested in the the fields of **Development and Blockchain**.<br>
 - 👯 I'm looking to collaborate on **Projects**.<br>
 - 💬 Always up for coversations related to **Tech, Music and Movies**.<br>
