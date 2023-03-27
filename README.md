@@ -18,8 +18,7 @@
 <!--⚡ Fun fact: I like writing for personal fun! -->
 <br>
 
-<p><img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=Neelpatel11&show_icons=true&locale=en&layout=compact" alt="adnancoding" />
-
+<p><img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=Neelpatel11&show_icons=true&locale=en&layout=compact&theme=radical" alt="adnancoding" />
 
 **Languages and Tools**:
 
